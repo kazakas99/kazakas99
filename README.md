@@ -35,8 +35,7 @@ Here are some ideas to get you started:
   "location": "Vilnius, Lithuania 🇱🇹",
   "education": "BSc Computer Science @ Vilnius University (2025-2029)",
   "focus": ["DevOps", "Cloud Infrastructure", "CI/CD", "AI Automation"],
-  "currently_building": "ChainSentry - Automated DevSecOps Pipeline",
-  "currently_deepening": ["Kubernetes", "Terraform", "Bash/Python scripting", "Spring Boot"]
+  "Projects": "BMI Analysis Tool",
 }
 ```
 
