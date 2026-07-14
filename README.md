@@ -41,6 +41,13 @@ Here are some ideas to get you started:
 
 # What I'm Building
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Matplotlib-FF6F00?logo=matplotlib&logoColor=white" alt="Matplotlib">
+</div>
+
 <br>
 
 ### BMI Analysis Tool
@@ -53,20 +60,20 @@ Here are some ideas to get you started:
 
 | Project              | Description | Stack |
 |----------------------|-------------|-------|
-| **BMI Analysis Tool** | Engineered a Python application to process 1,000+ body measurement data points from structured text/CSV files. Implemented traditional and custom BMI formulas (incorporating chest, wrist, and ankle measurements). Developed linear regression models and created insightful visualizations with up to **92% correlation strength**. | **Python** • **NumPy** • **Pandas** • **Matplotlib** • **SciPy** • **Seaborn** |
+| **BMI Analysis Tool** | Engineered a Python application to process 1,000+ body measurement data points from structured text/CSV files, enabling automated analysis of human body measurements. Implemented algorithms to calculate both traditional BMI and a new BMI formula incorporating chest, wrist, and ankle measurements for improved accuracy. Developed a custom linear regression model to compute slope, intercept, and correlation coefficients for body measurement trends. Visualized results with scatter plots and regression lines, achieving up to 92% correlation strength in analyses such as Age vs. BMI and Weight vs. New BMI. | **Python** • **NumPy** • **Pandas** • **Matplotlib** • **SciPy** • **Seaborn** |
 
 ---
 
 ### Key Features
 
-- **Traditional & Custom BMI Calculation** — Enhanced formula using additional body measurements for better accuracy
-- **Statistical Analysis** — Custom linear regression (slope, intercept, correlation coefficients)
-- **Data Processing** — Handles large datasets (1,000+ records) with cleaning and validation
-- **Professional Visualizations** — Scatter plots with regression lines (Age vs BMI, Weight vs New BMI, etc.)
-- **Automated Reporting** — Generates summary reports and saves high-quality charts
+- Traditional & Custom BMI Calculation using additional body measurements
+- Advanced Linear Regression Analysis with statistical metrics
+- Processing and cleaning of large structured datasets (1,000+ records)
+- Professional data visualizations and trend analysis
+- Automated insight generation
 
 ### Tech Stack
 - **Core**: Python 3
-- **Data**: Pandas, NumPy
+- **Data Processing**: Pandas, NumPy
 - **Visualization**: Matplotlib, Seaborn
 - **Statistics**: SciPy
