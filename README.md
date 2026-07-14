@@ -40,15 +40,10 @@ Here are some ideas to get you started:
 }
 ```
 
-## 🚀 What I'm Building
+## 🚀 My Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **ChainSentry** | Automated DevSecOps pipeline — CI/CD, dual security analysis, Claude AI remediation, live Grafana dashboard | GitHub Actions · Terraform · AWS · Python · Solidity · Web3 |
-| **InfraForge** | Production AWS infrastructure with chaos engineering, full Prometheus/Grafana observability, and MTTR tracking — deployed via OIDC CI/CD | Terraform · AWS · Python · Prometheus · Grafana · GitHub Actions |
-| **Bar-Hop (In Dev)** | Bar & venue discovery app — collaborative team project. React UI + REST API integration with C# backend | React · JavaScript · REST API |
 | **BMI Analysis Tool** | Python application processing 1,000+ body measurement data points with custom algorithms, linear regression models, and 92% correlation visualization | Python · NumPy · Matplotlib |
 
 ---
-
-**💡 Open to collaborations on DevOps, cloud infrastructure, and AI automation projects!**
