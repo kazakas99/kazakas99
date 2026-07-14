@@ -39,10 +39,25 @@ Here are some ideas to get you started:
   "currently_deepening": ["Kubernetes", "Terraform", "Bash/Python scripting", "Spring Boot"]
 }
 
-### What I'm Building
+# 🚀 What I'm Building
 
-| Project              | Description | Stack |
-|----------------------|-------------|-------|
-| **BMI Analysis Tool** | Engineered a Python application to process 1,000+ body measurement data points from structured text/CSV files, enabling automated analysis of human body measurements. Implemented algorithms to calculate both traditional BMI and a new BMI formula incorporating chest, wrist, and ankle measurements for improved accuracy. Developed a custom linear regression model to compute slope, intercept, and correlation coefficients for body measurement trends. Visualized results with scatter plots and regression lines, achieving up to 92% correlation strength in analyses such as Age vs. BMI and Weight vs. New BMI. | **Python** • **NumPy** • **Pandas** • **Matplotlib** • **SciPy** • **Seaborn** |
+<div align="center">
 
-<br>
+![Project Banner](https://via.placeholder.com/800x200/1a1a2e/00ff9d?text=Your+Project+Banner)  
+*Current as of July 2026*
+
+</div>
+
+## Projects Overview
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **🔒 YourProjectName** | Short powerful one-liner description of what the project does and its main value. | MainTech1 • MainTech2 • MainTech3 |
+| **🔧 AnotherProject** | Brief description highlighting key features or impact. | TechA • TechB • TechC |
+
+---
+
+## 🔍 YourProjectName
+
+**Python • NumPy • Pandas • Matplotlib • Scikit-learn**  
+*Month Year*
