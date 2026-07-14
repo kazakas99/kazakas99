@@ -38,3 +38,42 @@ Here are some ideas to get you started:
   "currently_building": "ChainSentry - Automated DevSecOps Pipeline",
   "currently_deepening": ["Kubernetes", "Terraform", "Bash/Python scripting", "Spring Boot"]
 }
+
+# What I'm Building
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Matplotlib-FF6F00?logo=matplotlib&logoColor=white" alt="Matplotlib">
+</div>
+
+<br>
+
+### BMI Analysis Tool
+
+**A data-driven body measurement analysis application built to process 1,000+ records and deliver advanced BMI insights.**
+
+---
+
+### What I'm Building
+
+| Project              | Description | Stack |
+|----------------------|-------------|-------|
+| **BMI Analysis Tool** | Engineered a Python application to process 1,000+ body measurement data points from structured text/CSV files. Implemented traditional and custom BMI formulas (incorporating chest, wrist, and ankle measurements). Developed linear regression models and created insightful visualizations with up to **92% correlation strength**. | **Python** • **NumPy** • **Pandas** • **Matplotlib** • **SciPy** • **Seaborn** |
+
+---
+
+### Key Features
+
+- **Traditional & Custom BMI Calculation** — Enhanced formula using additional body measurements for better accuracy
+- **Statistical Analysis** — Custom linear regression (slope, intercept, correlation coefficients)
+- **Data Processing** — Handles large datasets (1,000+ records) with cleaning and validation
+- **Professional Visualizations** — Scatter plots with regression lines (Age vs BMI, Weight vs New BMI, etc.)
+- **Automated Reporting** — Generates summary reports and saves high-quality charts
+
+### Tech Stack
+- **Core**: Python 3
+- **Data**: Pandas, NumPy
+- **Visualization**: Matplotlib, Seaborn
+- **Statistics**: SciPy
