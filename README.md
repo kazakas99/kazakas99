@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[BMI Analysis Tool](https://github.com/kazakas99/BMI-Analysis-Tool)** | Python application processing 1,000+ body measurement data points with custom algorithms, linear regression models, and 92% correlation visualization | Python · NumPy · Matplotlib |
+| **[📊 BMI Analysis Tool](https://github.com/kazakas99/BMI-Analysis-Tool)** | Python application processing 1,000+ body measurement data points with custom algorithms, linear regression models, and 92% correlation visualization | Python · NumPy · Matplotlib |
 
 ---
