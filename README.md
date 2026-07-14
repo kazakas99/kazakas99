@@ -41,13 +41,6 @@ Here are some ideas to get you started:
 
 # What I'm Building
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Matplotlib-FF6F00?logo=matplotlib&logoColor=white" alt="Matplotlib">
-</div>
-
 <br>
 
 ### BMI Analysis Tool
