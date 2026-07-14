@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## :brain:About Me
+## 🧠 About Me
 
 ```json
 {
@@ -38,26 +38,17 @@ Here are some ideas to get you started:
   "currently_building": "ChainSentry - Automated DevSecOps Pipeline",
   "currently_deepening": ["Kubernetes", "Terraform", "Bash/Python scripting", "Spring Boot"]
 }
+```
 
-# 🚀 What I'm Building
-
-<div align="center">
-
-![Project Banner](https://via.placeholder.com/800x200/1a1a2e/00ff9d?text=Your+Project+Banner)  
-*Current as of July 2026*
-
-</div>
-
-## Projects Overview
+## 🚀 What I'm Building
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **🔒 YourProjectName** | Short powerful one-liner description of what the project does and its main value. | MainTech1 • MainTech2 • MainTech3 |
-| **🔧 AnotherProject** | Brief description highlighting key features or impact. | TechA • TechB • TechC |
+| **ChainSentry** | Automated DevSecOps pipeline — CI/CD, dual security analysis, Claude AI remediation, live Grafana dashboard | GitHub Actions · Terraform · AWS · Python · Solidity · Web3 |
+| **InfraForge** | Production AWS infrastructure with chaos engineering, full Prometheus/Grafana observability, and MTTR tracking — deployed via OIDC CI/CD | Terraform · AWS · Python · Prometheus · Grafana · GitHub Actions |
+| **Bar-Hop (In Dev)** | Bar & venue discovery app — collaborative team project. React UI + REST API integration with C# backend | React · JavaScript · REST API |
+| **BMI Analysis Tool** | Python application processing 1,000+ body measurement data points with custom algorithms, linear regression models, and 92% correlation visualization | Python · NumPy · Matplotlib |
 
 ---
 
-## 🔍 YourProjectName
-
-**Python • NumPy • Pandas • Matplotlib • Scikit-learn**  
-*Month Year*
+**💡 Open to collaborations on DevOps, cloud infrastructure, and AI automation projects!**
