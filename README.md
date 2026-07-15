@@ -35,9 +35,6 @@ Here are some ideas to get you started:
 | 📊 **[BMI Analysis Tool](https://github.com/kazakas99/BMI-Analysis-Tool)** | Python application processing 1,000+ body measurement data points with custom algorithms, linear regression models, and 92% correlation visualization | Python · NumPy · Matplotlib |
 
 ---
-# 💫 About me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edvin-katenel-373949344) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:edvinas.katenel@gmail.com) 
