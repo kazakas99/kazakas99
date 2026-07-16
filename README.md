@@ -23,9 +23,7 @@ Here are some ideas to get you started:
   "surname": "Katenel",
   "location": "Vilnius, Lithuania 🇱🇹",
   "education": "BSc Computer Science @ Vilnius University (2025-2029)",
-  "focus": ["DevOps", "Cloud Infrastructure", "CI/CD", "AI Automation"],
   "projects": "BMI Analysis Tool",
-  "fun facts": ["I love dogs", "I love chess"]
 }
 ```
 
