@@ -24,7 +24,8 @@ Here are some ideas to get you started:
   "location": "Vilnius, Lithuania 🇱🇹",
   "education": "BSc Computer Science @ Vilnius University (2025-2029)",
   "focus": ["DevOps", "Cloud Infrastructure", "CI/CD", "AI Automation"],
-  "Projects": "BMI Analysis Tool",
+  "projects": "BMI Analysis Tool",
+  "fun facts": ["I love dogs", "I love chess"]
 }
 ```
 
